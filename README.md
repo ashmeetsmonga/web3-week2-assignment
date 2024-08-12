@@ -3,7 +3,7 @@
 Generate and manage your eth wallets.
 This project is created as per Harkirat's Web3 Cohort week 2 assigment requirements
 
-Live Link: [https://web3-week2-assignment.vercel.app/](Etherium Wallet Manager) 
+Live Link: ([Etherium Wallet Manager](https://web3-week2-assignment.vercel.app)) 
 
 Local setup
 ```bash
