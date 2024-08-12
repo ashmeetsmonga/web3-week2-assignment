@@ -5,6 +5,8 @@ This project is created as per Harkirat's Web3 Cohort week 2 assigment requireme
 
 Local setup
 ```bash
+clone this repo
+npm i
 npm run dev
 ```
 
